@@ -1,7 +1,33 @@
-## Hi there 👋 I'm Yazid
+# Hi there 👋 I'm Yazid
 
-# 💫 About Me:
-I'm a Software Engineering student with a passion for building scalable software, exploring artificial intelligence, and continuously pushing my technical limits.<br><br>I enjoy turning ideas into real products, whether it's developing full-stack web applications, designing robust backend architectures, or experimenting with machine learning models. I'm particularly interested in AI, distributed systems, cloud computing, cybersecurity, and software engineering best practices.<br><br>Currently, I'm focused on:<br><br>* 💻 Building real-world software projects<br>* 🤖 Exploring AI and machine learning<br>* ☁️ Learning cloud technologies and DevOps<br>* 📚 Strengthening my computer science fundamentals<br>* 🚀 Becoming the kind of engineer who can design, build, and scale impactful products<br><br>Outside of programming, you'll usually find me in the gym, swimming, playing basketball, or learning something new about physics, history, economics, or philosophy. I enjoy challenging myself both mentally and physically, and I try to bring that same mindset into software development.<br><br>---<br><br>### Current Goals<br><br>* Build a portfolio of production-quality projects<br>* Deepen my understanding of AI systems and modern software architecture<br>* Contribute to open-source projects<br>* Earn cloud and AI certifications<br>* Grow into a software engineer capable of solving complex, meaningful problems<br><br>---<br><br>> "Stay curious. Build consistently. Never stop learning."<br>
+I'm a Software Engineering student at Université Laval with a passion for building scalable software, exploring artificial intelligence, and continuously pushing my technical limits.
+
+I enjoy turning ideas into real products, whether it's developing full-stack web applications, designing robust backend architectures, or experimenting with machine learning models. I'm particularly interested in AI, distributed systems, cloud computing, cybersecurity, and software engineering best practices.
+
+Currently, I'm focused on:
+
+* 💻 Building real-world software projects
+* 🤖 Exploring AI and machine learning
+* ☁️ Learning cloud technologies and DevOps
+* 📚 Strengthening my computer science fundamentals
+* 🚀 Becoming the kind of engineer who can design, build, and scale impactful products
+
+Outside of programming, you'll usually find me in the gym, swimming, playing basketball, or learning something new about physics, history, economics, or philosophy. I enjoy challenging myself both mentally and physically, and I try to bring that same mindset into software development.
+
+---
+
+### Current Goals
+
+* Build a portfolio of production-quality projects
+* Deepen my understanding of AI systems and modern software architecture
+* Contribute to open-source projects
+* Earn cloud and AI certifications
+* Grow into a software engineer capable of solving complex, meaningful problems
+
+---
+
+> "Stay curious. Build consistently. Never stop learning."
+
 
 
 ## 🌐 Socials:
