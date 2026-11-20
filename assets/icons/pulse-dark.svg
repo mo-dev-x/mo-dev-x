@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="4 6 60 60" width="64" height="64" role="img" aria-label="PULSE">
+  <title>PULSE</title>
+  <desc>PULSE mark: a rounded square with a heartbeat line.</desc>
+  <rect x="6" y="8" width="56" height="56" rx="15" fill="#ff5c87"/>
+  <polyline points="13,38 24,38 29,27 35,49 41,22 46,38 55,38" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
