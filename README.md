@@ -1,43 +1,36 @@
-# Hi there 👋 I'm Yazid
+## Hi, I'm Yazid
 
-I'm a Software Engineering student at Université Laval with a passion for building scalable software, exploring artificial intelligence, and continuously pushing my technical limits.
+Software Engineering student at Université Laval (Québec City) working on mechanistic interpretability tooling and backend systems. Looking for **Summer 2027 SWE / ML internships**.
 
-I enjoy turning ideas into real products, whether it's developing full-stack web applications, designing robust backend architectures, or experimenting with machine learning models. I'm particularly interested in AI, distributed systems, cloud computing, cybersecurity, and software engineering best practices.
+### Currently
 
-Currently, I'm focused on:
+- **Research Intern, Mechanistic Interpretability** at IID (May 2026 – present)
+- **B.Eng. Software Engineering**, Université Laval, expected December 2028
+- Previously: **Software Development Intern** at AMEE (Sep – Dec 2024)
 
-* 💻 Building real-world software projects
-* 🤖 Exploring AI and machine learning
-* ☁️ Learning cloud technologies and DevOps
-* 📚 Strengthening my computer science fundamentals
-* 🚀 Becoming the kind of engineer who can design, build, and scale impactful products
+### Featured projects
 
-Outside of programming, you'll usually find me in the gym, swimming, playing basketball, or learning something new about physics, history, economics, or philosophy. I enjoy challenging myself both mentally and physically, and I try to bring that same mindset into software development.
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [Interlab](https://github.com/mo-dev-x/interlab) | Content-addressed lab for training, certifying, and causally validating sparse autoencoders on Qwen2.5-14B | Python, PyTorch, TransformerLens, SAELens, Slurm |
+| [Lodestar](https://github.com/mo-dev-x/lodestar) | Steering-native evaluation harness: baseline / control / steered arms, bootstrap CIs, HTML reports | Python, pandas, SciPy, Typer, Jinja2 |
+| [sae-concept-lab](https://github.com/mo-dev-x/sae-concept-lab) | Interactive UI for amplifying or suppressing SAE features in chat (Gemma 3, Qwen) with a fail-closed release gate | Python, Gradio |
+| [PULSE](https://github.com/mo-dev-x/pulse) | Bilingual, privacy-first campus wellness platform with a 70+ endpoint REST API | Flask, SQLAlchemy, MySQL, Redis, JWT, JavaScript |
+| [Bot or Not](https://github.com/mo-dev-x/social-bot-detection-ml) | User-level social bot detection with separate EN/FR LightGBM ensembles; 10th of 25 on the French leaderboard, built solo | Python, LightGBM, scikit-learn, pandas |
 
----
+Other work (not on GitHub): **CANLock**, **Catalogue Manager** (C++/Qt5), and a **Quoridor engine** (minimax with alpha-beta pruning).
 
-### Current Goals
+### Tech stack
 
-* Build a portfolio of production-quality projects
-* Deepen my understanding of AI systems and modern software architecture
-* Contribute to open-source projects
-* Earn cloud and AI certifications
-* Grow into a software engineer capable of solving complex, meaningful problems
+**Languages:** Python, C++, Java, JavaScript, TypeScript, C, C#, SQL  
+**ML / interpretability:** PyTorch, Hugging Face Transformers, TransformerLens, SAELens, scikit-learn, LightGBM, NumPy, pandas, SciPy  
+**Backend / web:** Flask, FastAPI, Node.js, React, Gradio, REST, JWT  
+**Data / infra:** MySQL, PostgreSQL, Redis, SQLite, Docker, Git, GitHub Actions, Slurm  
+**Desktop:** Qt5
 
----
+**Spoken languages:** French, English
 
-> "Stay curious. Build consistently. Never stop learning."
+### Contact
 
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohamed_el_yazid) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/mohamed-el-yazid-el-yaakoubi) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=mo-dev-x&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=mo-dev-x&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mo-dev-x&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![GitHub](https://img.shields.io/badge/GitHub-mo--dev--x-181717?logo=github&logoColor=white)](https://github.com/mo-dev-x)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20El%20Yazid%20El%20Yaakoubi-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-el-yazid-el-yaakoubi)
