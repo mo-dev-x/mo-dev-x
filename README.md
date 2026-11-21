@@ -7,7 +7,7 @@
 <p align="center">Software Engineering @ Université Laval · Mechanistic interpretability research</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=520&lines=Building+tools+that+make+LLMs+understandable;Sparse+autoencoders+%C2%B7+feature+steering;Backend+systems+%C2%B7+REST+APIs+%C2%B7+Python+%26+C%2B%2B;Open+to+Summer+2027+SWE+%2F+ML+internships" alt="Typing animation: what I work on">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=520&lines=Building+tools+that+make+LLMs+understandable;Sparse+autoencoders+%C2%B7+feature+steering;Backend+systems+%C2%B7+REST+APIs+%C2%B7+Python+%26+C%2B%2B" alt="Typing animation: what I work on">
 </p>
 
 <p align="center">
