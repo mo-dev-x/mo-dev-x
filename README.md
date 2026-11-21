@@ -15,6 +15,13 @@
   <a href="https://www.linkedin.com/in/mohamed-el-yazid-el-yaakoubi"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohamed%20El%20Yazid%20El%20Yaakoubi-0A66C2?logo=linkedin&amp;logoColor=white"></a>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+    <img src="assets/divider.svg" alt="" width="100%" height="12">
+  </picture>
+</p>
+
 ## Hi, I'm Yazid
 
 Software Engineering student at Université Laval (Québec City) working on mechanistic interpretability tooling and backend systems. Looking for **Summer 2027 SWE / ML internships**.
@@ -29,6 +36,13 @@ Software Engineering student at Université Laval (Québec City) working on mech
 - **Research Intern, Mechanistic Interpretability** at IID (May – Aug 2026)
 - **Software Development Intern** at AMEE (Sep – Dec 2024)
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+    <img src="assets/divider.svg" alt="" width="100%" height="12">
+  </picture>
+</p>
+
 ### Featured projects
 
 | Project | What it is | Stack |
@@ -38,6 +52,10 @@ Software Engineering student at Université Laval (Québec City) working on mech
 | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/sae-concept-lab-dark.svg"><img src="assets/icons/sae-concept-lab.svg" width="24" height="24" align="center" alt="sae-concept-lab logo"></picture> [sae-concept-lab](https://github.com/mo-dev-x/sae-concept-lab) | Interactive UI for amplifying or suppressing SAE features in chat (Gemma 3, Qwen) with a fail-closed release gate | Python, Gradio |
 | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/pulse-dark.svg"><img src="assets/icons/pulse.svg" width="24" height="24" align="center" alt="PULSE logo"></picture> [PULSE](https://github.com/mo-dev-x/pulse) | Bilingual, privacy-first campus wellness platform with a 95-endpoint REST API | Flask, SQLAlchemy, MySQL, Redis, JWT, JavaScript |
 | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/bot-or-not-dark.svg"><img src="assets/icons/bot-or-not.svg" width="24" height="24" align="center" alt="Bot or Not logo"></picture> [Bot or Not](https://github.com/mo-dev-x/social-bot-detection-ml) | User-level social bot detection with separate EN/FR LightGBM ensembles; 10th of 25 on the French leaderboard, built solo | Python, LightGBM, scikit-learn, pandas |
+| <img src="assets/icons/blitz-2027-bot.svg" width="24" height="24" align="center" alt="Blitz 2027 Bot logo"> [Blitz 2027 Bot](https://github.com/mo-dev-x/coveo-blitz-2027-bot) | Python bot for the Coveo Blitz 2027 registration challenge; its 60,113-point game placed the team 3rd and qualified it for the main hackathon | Python, websockets, msgspec |
+| <img src="assets/icons/powerlab.png" width="24" height="24" align="center" alt="PowerLab logo"> [PowerLab](https://github.com/mo-dev-x/PowerLab) | Personal athletic performance PWA: a seven-day strength and power program, set-by-set workout logger and progress charts, all stored on the device | React, TypeScript, Vite, Dexie (IndexedDB), PWA |
+| <img src="assets/icons/pearl.png" width="24" height="24" align="center" alt="Pearl logo"> [Pearl](https://github.com/mo-dev-x/pearl) | Gamified habit tracker that runs as an offline Home Screen app | TypeScript, IndexedDB, service worker, WebGL |
+| <img src="assets/icons/digital-analog.png" width="24" height="24" align="center" alt="Digital Analog logo"> [Digital Analog](https://github.com/mo-dev-x/digital-analog) | Native iPhone music player for the music you already own, stored on the device for offline listening | Swift, SwiftUI, AVFoundation, SQLite |
 
 Other work (not on GitHub): **CANLock**, **Catalogue Manager** (C++/Qt5), and a **Quoridor engine** (minimax with alpha-beta pruning).
 
@@ -63,6 +81,13 @@ Other work (not on GitHub): **CANLock**, **Catalogue Manager** (C++/Qt5), and a 
 <img alt="Qt" src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white">
 
 **Spoken languages:** French, English
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+    <img src="assets/divider.svg" alt="" width="100%" height="12">
+  </picture>
+</p>
 
 ### GitHub stats
 
